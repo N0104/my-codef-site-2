@@ -9,4 +9,5 @@ Furthermore, Amazon is customer-focused unlike most competitors such as Walmart 
 
 ![Amazon](/Amazon.jpg)
 
+---
 References 

@@ -8,4 +8,5 @@ In 2020 BP made the decision to diversify their firm away from a focus on fossil
 
 ![bp](/bp.jpg)
 
+---
 References

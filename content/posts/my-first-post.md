@@ -8,6 +8,7 @@ Canadian solar is a publicly traded company that specialises in the manufacturin
 
 ![solarpanels](/solarpanels.jpg)
 
+---
 References 
 
 Canadian Solar to build three solar projects in Brazil - World Construction Network. Worldconstructionnetwork.com. (2019). Retrieved 17 November 2020, from https://www.worldconstructionnetwork.com/news/canadian-solar-to-build-three-solar-projects-in-brazil/

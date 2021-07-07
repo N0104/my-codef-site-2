@@ -16,6 +16,7 @@ To summarise, there are views of a Bullish market with many forecasters estimati
 
 ![Copper](/Copper.jpg)
 
+---
 References 
 
 Onstad, E. (2020). Biden infrastructure plans will prop up base metals markets. U.K. Retrieved 8 December 2020, from https://uk.reuters.com/article/uk-metals-biden-infrastructure/biden-infrastructure-plans-will-prop-up-base-metals-markets-idUKKBN28H1QU. 
