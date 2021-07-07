@@ -1,7 +1,7 @@
 ---
 title: "Copper Outlook 2021"
 date: 2021-07-06T11:55:44+01:00
-draft: true
+draft: false
 ---
 
 Copper is a highly versatile material, used extensively in a wide range of products from electric vehicles to solar panels and other electronic equipment. In march 2020, prices fell to a four year low of $2.09/lb, before bouncing back 43% by September with a price of $3.1/lb. This trend of an overall strong incline of copper price is likely to continue into 2021, aided further by additional bullish factors, explored in this article. Current predictions by Reuters estimate a median price that is 12.5% higher than in 2020. Although, evidence of potential bearish influences may foster a weaker price growth in 2021. 
